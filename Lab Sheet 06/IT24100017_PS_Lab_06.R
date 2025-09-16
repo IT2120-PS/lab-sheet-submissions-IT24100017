@@ -10,3 +10,4 @@ pbinom(46,50,0.85,lower.tail = FALSE)
 # ii) Poisson Distribution
 # iii) 
 dpois(15,12)
+
